@@ -58,3 +58,24 @@ Java Developer (3+ Years Experience)
 ### 20. Do you have any questions for us?
 
 ---
+
+# 📌 Interview Focus Areas
+
+- Core Java (Java 8, Java 21)
+- OOP Concepts (Abstract Class vs Interface)
+- Memory Management & Garbage Collection
+- Stream API
+- Optional Class
+- Microservices Architecture
+- Spring Boot (Including AOT)
+- Spring Security
+- Service Discovery
+- Coding & Problem Solving
+
+---
+
+# ⭐ Difficulty Level
+
+**Intermediate**
+
+---
