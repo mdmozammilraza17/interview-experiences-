@@ -56,15 +56,21 @@ Why did you leave your previous organization?
 
 # 📌 Interview Focus Areas
 
-- Microservices Architecture  
-- Spring Security  
-- Kafka  
-- SQL Optimization  
-- Production-level Scenarios  
-- Monitoring and Logging  
-- Database Concepts  
+- Core Java (Java 8, Java 21)
+- OOP Concepts (Abstract Class vs Interface)
+- Memory Management & Garbage Collection
+- Stream API
+- Optional Class
+- Microservices Architecture
+- Spring Boot (Including AOT)
+- Spring Security
+- Service Discovery
+- Coding & Problem Solving
 
 ---
 
 # ⭐ Difficulty Level
-Intermediate to Advanced
+
+**Intermediate**
+
+---
